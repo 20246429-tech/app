@@ -1,0 +1,6 @@
+Category,Demanda_Proyectada,Sigma_Demanda_Historica,Stock_Seguridad,Punto_Reorden,Inventory_Level_Promedio,Nivel_Servicio_Objetivo,Brecha_Inventario
+Clothing,12490.2,1636.3,2691.4,15181.7,282.1,1.0,14899.6
+Electronics,8287.0,1770.9,2912.8,11199.9,289.3,1.0,10910.6
+Furniture,9378.1,2342.5,3853.0,13231.1,250.1,1.0,12981.0
+Groceries,34342.4,6687.5,11000.0,45342.4,360.3,1.0,44982.0
+Toys,8759.8,2969.1,4883.7,13643.6,229.1,1.0,13414.5
